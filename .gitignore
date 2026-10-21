@@ -1,0 +1,14 @@
+# Build output and your signing key
+build/
+keystore/
+
+# Your own files in assets/ (see assets/README.md); the generated voice pack
+assets/*
+!assets/README.md
+!assets/arc_reactor.png
+!assets/wallpaper.jpg
+
+.DS_Store
+release/
+release/
+tools/bundletool.jar

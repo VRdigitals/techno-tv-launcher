@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Techno TV</string>
+    <string name="a11y_desc">Lets the Home button open Techno TV instead of the Google TV home screen, and shows the Techno TV start-up screen when you turn the TV on. It only notices when the Google TV home screen opens and when the screen turns on. It does not read what is on your screen, and it does not collect or share any data.</string>
+    <string name="disclosure_title">Use Techno TV as your Home screen?</string>
+    <string name="disclosure_body">Google TV doesn\'t let other apps replace its home screen. With your permission, Techno TV uses an Android accessibility service only to:\n\n• open Techno TV when you press Home (instead of the Google TV home screen), and\n• show the Techno TV start-up screen when you turn the TV on.\n\nIt does not read what is on your screen, and it does not collect or share any data. You can turn it off at any time in Settings → Accessibility.\n\nOn the next screen, choose \"Techno TV\" and turn it on.</string>
+    <string name="disclosure_yes">Turn on</string>
+    <string name="disclosure_no">Not now</string>
+</resources>
