@@ -28,7 +28,7 @@ CINEMATIC START-UP
 • Bluetooth speaker? Techno TV waits for it to reconnect, so you never miss the welcome.
 
 EVERYTHING IN ONE PLACE
-• Clock, date and local weather (found automatically).
+• Clock, date and weather for the city you choose.
 • Featured apps as big cards, plus an All apps page.
 • Inputs panel: TV, HDMI, AV and USB in one click.
 • Quick settings: Wi-Fi, Bluetooth, picture and sound.

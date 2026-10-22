@@ -7,7 +7,7 @@ assistant, a cinematic start-up screen and a 3D blue glow that follows your remo
 
 ## Features
 
-- **Home screen**: clock, auto-located weather, Featured app cards, an Apps panel with an
+- **Home screen**: clock, weather for the city you choose, Featured app cards, an Apps panel with an
   All-apps page, and an Inputs panel (TV, HDMI, AV, USB).
 - **NOVA**, a scripted assistant (not a real AI) with an arc-reactor avatar:
   - comments when you rest on an app, and before switching inputs;
@@ -38,7 +38,7 @@ any time.
 
 | What | Where |
 |---|---|
-| Weather city | Automatic, or set it in `src/com/vrdigitals/technotv/Config.java` |
+| Weather city | Asked on first launch; select the weather card to change it |
 | Featured apps | `Config.java` → `FEATURED` |
 | NOVA's lines | `voice/lines.txt`; recordings in `voice/recorded/<key>.mp3`, then `./make_voice.sh` |
 | Wallpaper / avatar | `assets/wallpaper.jpg`, `assets/arc_reactor.png` |

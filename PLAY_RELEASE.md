@@ -31,8 +31,8 @@ in a row** before they can publish to everyone.
 - **Content rating**: questionnaire → Utility / Productivity; no violence etc.
 - **Target audience**: 13+ (not designed for children).
 - **Data safety**:
-  - Data collected: **Approximate location** (purpose: app functionality = weather), not shared,
-    not stored on servers, processed on device / via ipapi.co. Everything else: none.
+  - Data collected: **Approximate location** (purpose: app functionality = weather; the user types a city, or skips and it is guessed from the IP address), not shared,
+    not stored on servers, sent to ipapi.co / Open-Meteo to get the weather. Everything else: none.
   - Data encrypted in transit: yes (HTTPS). Users can request deletion: not applicable (no account).
 - **Accessibility API declaration** (asked because of the accessibility service): say the app is
   a launcher and the service is used to open Techno TV when the user presses Home and to show the
