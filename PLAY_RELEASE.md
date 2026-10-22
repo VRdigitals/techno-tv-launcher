@@ -25,7 +25,8 @@ in a row** before they can publish to everyone.
 - Then **Apply for production access**.
 
 ## 4. App content (Policy → App content)
-- **Privacy policy**: public URL of `PRIVACY.md` (or the same text on a web page).
+- **Privacy policy**: `https://github.com/VRdigitals/techno-tv-launcher/blob/main/PRIVACY.md`
+  (public; if Google wants a plain web page, turn on GitHub Pages for the repo, or paste the text onto any site).
 - **Ads**: no ads.
 - **App access**: all functions available without special access.
 - **Content rating**: questionnaire → Utility / Productivity; no violence etc.
